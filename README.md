@@ -3,7 +3,7 @@
 Tenemos dos contratos:
 
 SimpleStorage:
- - Tiene una funcion de leer y modificar/añadir datos y otra de retrieve el dinero.
+ - Tiene una funcion de leer y modificar/añadir datos y otra de retirar el dinero.
 
 OtherStorage:
  - Lee, modifica y añade datos de otro contrato. En este caso SimpleStorage
