@@ -14,3 +14,6 @@ Hardhat:
 Etherscan:
  - SimpleStorage: https://sepolia.etherscan.io/address/0x1Ed79864cF3a83D4DF92B8aCEB95E631E1DF65E4
  - OtherStorage: https://sepolia.etherscan.io/address/0xBF6956F11323BFAE3E71B5E1F8a15878D742D61F
+
+
+No hacemos uso de una interfaz, porque no lo hemos considerado necesario. Para este caso es innecesario.
