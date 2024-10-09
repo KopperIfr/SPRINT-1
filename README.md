@@ -8,8 +8,16 @@ SimpleStorage:
 OtherStorage:
  - Lee, modifica y añade datos de otro contrato. En este caso SimpleStorage
 
+
+-------------------------------
+
+
 Hardhat:
  - Los dos contratos han sido desplegados y verificados en etherscan utilizando Hardhat.
+
+
+-------------------------------
+
 
 Etherscan:
  - SimpleStorage: https://sepolia.etherscan.io/address/0x1Ed79864cF3a83D4DF92B8aCEB95E631E1DF65E4
