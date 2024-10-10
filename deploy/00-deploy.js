@@ -17,12 +17,10 @@ module.exports = async ({getNamedAccounts, deployments}) => {
 
     if (network.config.chainId === 11155111 && process.env.ETHERSCAN_API_KEY) {
         console.log("Waiting for block confirmations...");
-        // Not functionable in version 6^ ethers ----->
         
         await verify(simpleStorage.address, []);
         await verify(otherStorage.address, [simpleStorage.address]);
     
-        //______________________________________________
     
     }    
 }
